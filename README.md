@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm August Rothpletz</h1>
+<h1 align="center">Hey there! I'm August Rothpletz.</h1>
 <h3 align="center">👨‍🎓 Software Engeneering Major / Entrepreneurship Minor - Baylor University 🐻</h3>
 <p align="center">
   💻 Lots of fun web, mobile, and game dev projects
